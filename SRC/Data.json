@@ -1,0 +1,62 @@
+{
+    "Questions" : [
+    {
+    "Question":"Who is president Of India?",
+    "Params":[{"label": "Kovind", "value": 0 },
+        {"label": "Kalam", "value": 1 },
+        {"label": "Venkaiah", "value": 2 },
+        {"label": "Modi", "value": 3 }]
+    },
+    {
+        "Question":"Who is PM Of India?",
+        "Params":[{"label": "Kovind", "value": 0 },
+            {"label": "Kalam", "value": 1 },
+            {"label": "Venkaiah", "value": 2 },
+            {"label": "Modi", "value": 3 }]
+        },
+        {
+            "Question":"Who is Voice president Of India?",
+            "Params":[{"label": "Kovind", "value": 0 },
+                {"label": "Kalam", "value": 1 },
+                {"label": "Venkaiah", "value": 2 },
+                {"label": "Modi", "value": 3 }]
+            }
+            ,
+        {
+            "Question":"Who is CM Of Telanga?",
+            "Params":[{"label": "KCR", "value": 0 },
+                {"label": "Jagan", "value": 1 },
+                {"label": "Yogi", "value": 2 },
+                {"label": "Kegrival", "value": 3 }]
+            }
+            ,
+        {
+            "Question":"Capital Of India?",
+            "Params":[{"label": "Delhi", "value": 0 },
+                {"label": "Hyd", "value": 1 },
+                {"label": "Chennai", "value": 2 },
+                {"label": "NCR", "value": 3 }]
+            },
+            {
+                "Question":"Capital Of Telangana?",
+                "Params":[{"label": "Delhi", "value": 0 },
+                    {"label": "Hyd", "value": 1 },
+                    {"label": "Chennai", "value": 2 },
+                    {"label": "NCR", "value": 3 }]
+                },
+                {
+                    "Question":"Capital Of Tamilanadu?",
+                    "Params":[{"label": "Delhi", "value": 0 },
+                        {"label": "Hyd", "value": 1 },
+                        {"label": "Chennai", "value": 2 },
+                        {"label": "NCR", "value": 3 }]
+                    },
+                    {
+                        "Question":"Capital Of AP?",
+                        "Params":[{"label": "Delhi", "value": 0 },
+                            {"label": "Hyd", "value": 1 },
+                            {"label": "Chennai", "value": 2 },
+                            {"label": "NCR", "value": 3 }]
+                        }
+    ]
+    }
